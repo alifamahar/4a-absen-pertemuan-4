@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 4
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Alif Karimulah] | [2010631170046]
 - [Ali Dongan Harahap] | [2010631170045]
 - Anandito Rafi Putra | 2010631170137
 - Jovanka Sandra Nathalie Silalahi | 2010631170133
