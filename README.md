@@ -19,4 +19,5 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Chintya Ana Tasya] | [2010631170005]
 - [Anisa Nur Hasanah] | [2010631170052]
 - [Anisa Fitrianida Lutfiajati Pradhyani] | [2010631170003]
+- [Adrian Aufarrizqi] | [2010631170042]
 - [Afiva Yuazijah] | [2010631170136]
