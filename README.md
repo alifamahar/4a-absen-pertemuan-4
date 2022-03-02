@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 4
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Almira Zahra] | [2010631170048]
 - [Adi Sunandar] | [2010631170041]
 - [Alvi Yuniar] | [2010631170050]
 - [Afifah Nur Sallamah] | [2010631170001]
