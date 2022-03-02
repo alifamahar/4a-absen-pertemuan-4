@@ -21,3 +21,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Anisa Fitrianida Lutfiajati Pradhyani] | [2010631170003]
 - [Adrian Aufarrizqi] | [2010631170042]
 - [Afiva Yuazijah] | [2010631170136]
+- [Dede Fitriyani] | [2010631170007] 
