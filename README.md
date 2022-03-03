@@ -22,3 +22,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Adrian Aufarrizqi] | [2010631170042]
 - [Afiva Yuazijah] | [2010631170136]
 - [Dede Fitriyani] | [2010631170007] 
+- [Andriani Nurian] | [2010631170002] 
