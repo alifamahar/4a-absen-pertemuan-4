@@ -23,3 +23,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Afiva Yuazijah] | [2010631170136]
 - [Dede Fitriyani] | [2010631170007] 
 - [Andriani Nurian] | [2010631170002] 
+- [Alfian Vito Anggoro] | [2010631170044] 
