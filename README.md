@@ -24,3 +24,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Dede Fitriyani] | [2010631170007] 
 - [Andriani Nurian] | [2010631170002] 
 - [Alfian Vito Anggoro] | [2010631170044] 
+- [Alifa Maha Rizka] | [2010631170047]
